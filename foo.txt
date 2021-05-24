@@ -2,3 +2,4 @@ gitテスト
 test2
 
 B
+C
